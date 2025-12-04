@@ -17,8 +17,8 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-st.title("🏡 California Housing Price Predictor")
-st.caption("Multiple Linear Regression model using the California Housing dataset (scikit-learn).")
+st.title("🏡Housing Price Predictor")
+st.caption("Multiple Linear Regression model using the Housing dataset (scikit-learn).")
 
 
 # -----------------------------
@@ -171,7 +171,7 @@ with tab_predict:
 with tab_data:
     st.subheader("Dataset Overview")
 
-    st.markdown("**California Housing Dataset – First 10 Rows**")
+    st.markdown("**Housing Dataset – First 10 Rows**")
     st.dataframe(X.head(10), use_container_width=True)
 
     st.markdown("---")
@@ -215,3 +215,4 @@ with tab_metrics:
         "Tip: Try changing the *Test Size* and *Random State* in the sidebar to see "
         "how the model performance changes."
     )
+
