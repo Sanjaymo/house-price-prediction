@@ -13,8 +13,8 @@
   <img src="https://img.shields.io/badge/scikit--learn-1.4.0-orange.svg" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"/>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Status"/>
-  <img src="https://img.shields.io/github/stars/Sanjaymo/california-housing-ml?style=social" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/github/forks/Sanjaymo/california-housing-ml?style=social" alt="GitHub Forks"/>
+  <img src="https://img.shields.io/github/stars/Sanjaymo/house-price-prediction?style=social" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/forks/Sanjaymo/house-price-prediction?style=social" alt="GitHub Forks"/>
 </p>
 
 <p align="center">
@@ -190,7 +190,7 @@ The app will automatically open in your browser at `http://localhost:8501`
 - 📱 Responsive design for mobile and desktop
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sanjaymo/california-housing-ml/main/assets/streamlit-interface.png" alt="Streamlit Interface" width="800"/>
+  <img src="https://raw.githubusercontent.com/Sanjaymo/house-price-prediction/main/assets/streamlit-interface.png" alt="Streamlit Interface" width="800"/>
 </div>
 
 ---
@@ -432,7 +432,7 @@ Give a ⭐️ if this project helped you!
 
 ### 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sanjaychoudhari/california-housing-ml&type=Date)](https://star-history.com/#sanjaychoudhari/california-housing-ml&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Sanjaymo/house-price-prediction&type=Date)](https://star-history.com/#Sanjaymo/house-price-prediction&Date)
 
 </div>
 
@@ -441,9 +441,10 @@ Give a ⭐️ if this project helped you!
 <div align="center">
 
 **Made with ❤️ and Python**
+**By Sanjay Choudhari**
 
 *Version 1.0.0 - December 2025*
 
-[⬆ Back to Top](#-california-housing-price-predictor)
+[⬆ Back to Top](#-house-price-prediction)
 
 </div>
