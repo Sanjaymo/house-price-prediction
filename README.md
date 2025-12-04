@@ -408,24 +408,14 @@ copies or substantial portions of the Software.
 If you have any questions or need help with the project:
 
 - 📧 Email:sanjaychoudhari288@gmail.com
-- 💬 Open an [Issue](https://github.com/sanjaychoudhari/california-housing-ml/issues)
-- 📖 Check the [Documentation](https://github.com/Sanjaymo/california-housing-ml/wiki)
+- 💬 Open an [Issue](https://github.com/sanjaychoudhari/house-price-prediction/issues)
+- 📖 Check the [Documentation](https://github.com/Sanjaymo/house-price-prediction/wiki)
 
 ---
 
 ## ⭐ Show Your Support
 
 Give a ⭐️ if this project helped you!
-
-<div align="center">
-
-### 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Sanjaymo/house-price-prediction&type=Date)](https://star-history.com/#Sanjaymo/house-price-prediction&Date)
-
-</div>
-
----
 
 <div align="center">
 
