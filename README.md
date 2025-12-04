@@ -4,7 +4,7 @@
 
 ### *Predict California House Prices with Machine Learning*
 
-  <img src="https://raw.githubusercontent.com/Sanjaymo/california-housing-ml/main/assets/banner.png" alt="California Housing Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/Sanjaymo/house-price-prediction/main/assets/banner.png" alt="California Housing Banner" width="800"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python Version"/>
@@ -57,19 +57,19 @@ Built with **scikit-learn** for modeling and **Streamlit** for web deployment, t
 ### Streamlit Web Application
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sanjaymo/california-housing-ml/main/assets/streamlit-demo.gif" alt="Streamlit Demo" width="800"/>
+  <img src="https://raw.githubusercontent.com/Sanjaymo/house-price-prediction/main/assets/streamlit-demo.gif" alt="Streamlit Demo" width="800"/>
 </div>
 
 ### Console Application
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sanjaymo/california-housing-ml/main/assets/console-demo.png" alt="Console Demo" width="700"/>
+  <img src="https://raw.githubusercontent.com/Sanjaymo/house-price-prediction/main/assets/console-demo.png" alt="Console Demo" width="700"/>
 </div>
 
 ### Model Performance Visualization
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sanjaymo/california-housing-ml/main/assets/prediction-graph.png" alt="Prediction Graph" width="700"/>
+  <img src="https://raw.githubusercontent.com/Sanjaymo/house-price-prediction/main/assets/prediction-graph.png" alt="Prediction Graph" width="700"/>
 </div>
 
 ---
