@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🏠 California Housing Price Predictor
+# 🏠 Housing Price Predictor
 
-### *Predict California House Prices with Machine Learning*
+### *Predict House Prices with Machine Learning*
 
   <img src="https://raw.githubusercontent.com/Sanjaymo/house-price-prediction/main/assets/banner.png" alt="California Housing Banner" width="800"/>
 
