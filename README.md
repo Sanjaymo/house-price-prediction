@@ -13,19 +13,8 @@
   <img src="https://img.shields.io/badge/scikit--learn-1.4.0-orange.svg" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"/>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Status"/>
-  <img src="https://img.shields.io/github/stars/Sanjaymo/house-price-prediction?style=social" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/github/forks/Sanjaymo/house-price-prediction?style=social" alt="GitHub Forks"/>
 </p>
-
-<p align="center">
-  <a href="#-features">Features</a> •
-  <a href="#-demo">Demo</a> •
-  <a href="#-installation">Installation</a> •
-  <a href="#-usage">Usage</a> •
-  <a href="#-contributing">Contributing</a> •
-  <a href="#-license">License</a>
-</p>
-
+App link : https://house-price-prediction-m9t.streamlit.app/ 
 </div>
 
 ---
