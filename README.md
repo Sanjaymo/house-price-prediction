@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"/>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Status"/>
 </p>
-App link : https://house-price-prediction-m9t.streamlit.app/ 
+App link : [https://house-price-prediction-m9t.streamlit.app/ ](https://house-price-prediction-09.streamlit.app/)
 </div>
 
 ---
