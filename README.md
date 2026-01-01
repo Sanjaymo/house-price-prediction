@@ -31,7 +31,6 @@ Built with **scikit-learn** for modeling and **Streamlit** for web deployment, t
 
 - 🎯 **Accurate Predictions** - Multiple Linear Regression model trained on 20,640 housing samples
 - 🖥️ **Dual Interface** - Console-based CLI and interactive Streamlit web app
-- 📊 **Visual Analytics** - Actual vs Predicted scatter plots with performance metrics
 - 🔄 **Real-time Training** - Retrain the model on-demand with updated parameters
 - 🎨 **Interactive UI** - User-friendly sliders and inputs for feature adjustment
 - 📈 **Model Metrics** - MSE, R² Score, and MAE for performance evaluation
